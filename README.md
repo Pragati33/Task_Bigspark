@@ -9,6 +9,7 @@ Further analysis has been performed on the national level for ENgland, Northen I
 Different strategies implemented to supress the covid death rate and numbers of active covid cases can be analysed with the help of the visualisation provided for the 4 different countries in the Nation.
 
 ### Pre-requisites and execution steps
+
 The repository contains data and scripts for the analysis and visualisation
 
 1 - Download the .zpln notebook (bigspark_nhs_data_analysis_2GNSFGAK9.zpln) to the local system
@@ -24,3 +25,4 @@ The repository contains data and scripts for the analysis and visualisation
 6 - Abort the execution of the current dash paragraph to view the next country's analysis and visualisation on the same dash
 
 
+# Thank you !!
